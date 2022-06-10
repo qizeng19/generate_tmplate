@@ -1,0 +1,4 @@
+function use`filename`Store() {
+
+    return {a:1, b:2}
+}

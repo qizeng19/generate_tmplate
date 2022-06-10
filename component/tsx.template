@@ -1,0 +1,4 @@
+import `use${filename}Store` from "`./use${filename}Store.ts`"
+function `${filename}Component`() {
+    return 12
+} 
